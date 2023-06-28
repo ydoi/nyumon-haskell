@@ -1,0 +1,1 @@
+myElem num list = (>0) (length (filter (==num) list))
